@@ -1,6 +1,6 @@
 # temario-de-app-web   
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
-##1.-Introducción al desarrollo web   
+#1.-Introducción al desarrollo web   
 Historia y evolución del desarrollo web   
 El desarrollo web comenzó en la década de 1990 con la creación de las primeras páginas HTML estáticas. Con el tiempo, se agregaron tecnologías como CSS para el diseño y JavaScript para   la interactividad. La web evolucionó para soportar páginas dinámicas mediante lenguajes de servidor como PHP y bases de datos como MySQL. Hoy en día, existen aplicaciones web avanzadas  como las Single Page Applications (SPA) y Progressive Web Apps (PWA).   
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)   
@@ -34,7 +34,7 @@ Git y GitHub
 Git es un sistema de control de versiones que permite gestionar los cambios en el código de un proyecto. GitHub es una plataforma basada en Git para alojar proyectos, colaborar y   compartir código.   
 Flujo de trabajo con ramas (branching, merge, pull requests)   
 El trabajo se realiza en ramas separadas para desarrollar nuevas funcionalidades o corregir errores sin afectar la rama principal (main/master). Luego, se usan "pull requests" para  revisar y fusionar los cambios en la rama principal. El proceso de "merge" integra los cambios, y así se mantiene el historial y la colaboración organizada   
-##Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web   
+#Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web   
 1.-Diseño e implementación del frontend    
 Maquetación/Wireframe/Mockup   
 API   
@@ -50,7 +50,7 @@ CRUD desde el backend
 Validación de formularios   
 Autenticación y autorización   
 
-##Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional   
+#Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional   
 1. -Integración de frontend y backend   
 Interfaz de usuario Frontend   
 Manejo de API   
