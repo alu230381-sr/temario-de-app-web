@@ -2,17 +2,38 @@
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 1.-Introducción al desarrollo web  
 Historia y evolución del desarrollo web  
+El desarrollo web comenzó en la década de 1990 con la creación de las primeras páginas HTML estáticas. Con el tiempo, se agregaron tecnologías como CSS para el diseño y JavaScript para la interactividad. La web evolucionó para soportar páginas dinámicas mediante lenguajes de servidor como PHP y bases de datos como MySQL. Hoy en día, existen aplicaciones web avanzadas como las Single Page Applications (SPA) y Progressive Web Apps (PWA).  
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
+Estáticas: El contenido no cambia y se muestra igual para todos. Ejemplo: páginas informativas simples.
+Dinámicas: El contenido se genera en el servidor y puede cambiar según el usuario o la interacción. Ejemplo: foros, tiendas online.
+SPA (Single Page Application): Toda la aplicación se carga inicialmente y la navegación ocurre sin recargar la página. Ejemplo: Gmail.
+PWA (Progressive Web App): Aplicaciones web que ofrecen experiencia similar a una app móvil, incluyendo funcionamiento offline y notificaciones.  
 2.Arquitectura de aplicaciones web  
-Cliente-Servidor  
-Arquitectura de tres capas (presentación, lógica, datos)  
-REST y API-first design  
-3. -Lenguajes y tecnologías fundamentales   
-HTML, CSS, JavaScript, PHP, MySQL  
-4.-Control de versiones  
-Git y GitHub  
-Flujo de trabajo con ramas (branching, merge, pull requests)  
+Cliente-Servidor:
+Modelo donde el cliente (navegador) solicita información y el servidor responde. El cliente envía peticiones (requests) y el servidor envía respuestas (responses).
 
+Arquitectura de tres capas:
+
+Presentación: Interfaz gráfica (frontend) que ve el usuario.
+Lógica: Procesa la información y reglas del negocio (backend).
+Datos: Manejo y almacenamiento de datos (base de datos).
+REST y API-first design:
+
+REST (Representational State Transfer): Estilo de diseño para APIs que usan HTTP para acceder y manipular recursos representados en formato JSON o XML.
+API-first design: Estrategia donde el desarrollo de la API es la prioridad para garantizar una interfaz bien definida y reutilizable entre sistemas.
+
+3. -Lenguajes y tecnologías fundamentales   
+HTML, CSS, JavaScript, PHP, MySQL
+HTML: Lenguaje de marcado para estructurar contenido web.
+CSS: Lenguaje para diseñar y dar estilo visual a las páginas web.
+JavaScript: Lenguaje de programación para la interactividad y lógica en el navegador.
+PHP: Lenguaje de programación del lado servidor para crear páginas dinámicas.
+MySQL: Sistema de gestión de bases de datos relacional, utilizado para almacenar y consultar datos.  
+4.-Control de versiones  
+Git y GitHub
+Git es un sistema de control de versiones que permite gestionar los cambios en el código de un proyecto. GitHub es una plataforma basada en Git para alojar proyectos, colaborar y compartir código.  
+Flujo de trabajo con ramas (branching, merge, pull requests)  
+El trabajo se realiza en ramas separadas para desarrollar nuevas funcionalidades o corregir errores sin afectar la rama principal (main/master). Luego, se usan "pull requests" para revisar y fusionar los cambios en la rama principal. El proceso de "merge" integra los cambios, y así se mantiene el historial y la colaboración organizada  
 Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 1.-Diseño e implementación del frontend  
 Maquetación/Wireframe/Mockup  
