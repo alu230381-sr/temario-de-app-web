@@ -22,7 +22,7 @@ REST y API-first design:
 REST (Representational State Transfer): Estilo de diseño para APIs que usan HTTP para acceder y manipular recursos representados en formato JSON o XML.
 API-first design: Estrategia donde el desarrollo de la API es la prioridad para garantizar una interfaz bien definida y reutilizable entre sistemas.
 
-3. -Lenguajes y tecnologías fundamentales   
+3. -Lenguajes y tecnologías fundamentales     
 HTML, CSS, JavaScript, PHP, MySQL
 HTML: Lenguaje de marcado para estructurar contenido web.
 CSS: Lenguaje para diseñar y dar estilo visual a las páginas web.
