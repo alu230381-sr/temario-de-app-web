@@ -51,6 +51,8 @@ CRUD desde el backend
 4.-Seguridad básica en aplicaciones web   
 Validación de formularios   
 Autenticación y autorización   
+<img width="343" height="237" alt="image" src="https://github.com/user-attachments/assets/58d1a687-44ab-469e-b78e-673b4f8a5576" />
+
 
 ##  Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional   ##
 1. -Integración de frontend y backend   
