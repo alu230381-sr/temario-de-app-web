@@ -1,6 +1,6 @@
 # temario-de-app-web   
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
-##1.-Introducción al desarrollo web##
+##  1.-Introducción al desarrollo web  ##
 Historia y evolución del desarrollo web   
 El desarrollo web comenzó en la década de 1990 con la creación de las primeras páginas HTML estáticas. Con el tiempo, se agregaron tecnologías como CSS para el diseño y JavaScript para   la interactividad. La web evolucionó para soportar páginas dinámicas mediante lenguajes de servidor como PHP y bases de datos como MySQL. Hoy en día, existen aplicaciones web avanzadas  como las Single Page Applications (SPA) y Progressive Web Apps (PWA).   
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)   
