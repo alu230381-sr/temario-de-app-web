@@ -34,6 +34,8 @@ Git y GitHub
 Git es un sistema de control de versiones que permite gestionar los cambios en el código de un proyecto. GitHub es una plataforma basada en Git para alojar proyectos, colaborar y   compartir código.   
 Flujo de trabajo con ramas (branching, merge, pull requests)   
 El trabajo se realiza en ramas separadas para desarrollar nuevas funcionalidades o corregir errores sin afectar la rama principal (main/master). Luego, se usan "pull requests" para  revisar y fusionar los cambios en la rama principal. El proceso de "merge" integra los cambios, y así se mantiene el historial y la colaboración organizada
+<img width="247" height="149" alt="image" src="https://github.com/user-attachments/assets/46979708-68a5-41bc-a038-98250a20080d" />
+
 ##  Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  ##  
 1.-Diseño e implementación del frontend    
 Maquetación/Wireframe/Mockup   
