@@ -22,14 +22,14 @@ REST y API-first design:
 REST (Representational State Transfer): Estilo de diseño para APIs que usan HTTP para acceder y manipular recursos representados en formato JSON o XML.
 API-first design: Estrategia donde el desarrollo de la API es la prioridad para garantizar una interfaz bien definida y reutilizable entre sistemas.
 
-3. -Lenguajes y tecnologías fundamentales   
+3. -Lenguajes y tecnologías fundamentales  
 HTML, CSS, JavaScript, PHP, MySQL
 HTML: Lenguaje de marcado para estructurar contenido web.
 CSS: Lenguaje para diseñar y dar estilo visual a las páginas web.
 JavaScript: Lenguaje de programación para la interactividad y lógica en el navegador.
 PHP: Lenguaje de programación del lado servidor para crear páginas dinámicas.
 MySQL: Sistema de gestión de bases de datos relacional, utilizado para almacenar y consultar datos.  
-4.-Control de versiones  
+4.-Control de versiones   
 Git y GitHub
 Git es un sistema de control de versiones que permite gestionar los cambios en el código de un proyecto. GitHub es una plataforma basada en Git para alojar proyectos, colaborar y compartir código.  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
