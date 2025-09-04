@@ -12,7 +12,7 @@ PWA (Progressive Web App): Aplicaciones web que ofrecen experiencia similar a un
 Cliente-Servidor:
 Modelo donde el cliente (navegador) solicita información y el servidor responde. El cliente envía peticiones (requests) y el servidor envía respuestas (responses).
 
-Arquitectura de tres capas:
+Arquitectura de tres capas:  
 
 Presentación: Interfaz gráfica (frontend) que ve el usuario.
 Lógica: Procesa la información y reglas del negocio (backend).
