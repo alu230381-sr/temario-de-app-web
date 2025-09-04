@@ -7,7 +7,7 @@ Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
 Cliente-Servidor
 Arquitectura de tres capas (presentación, lógica, datos)
 REST y API-first design
-3. -Lenguajes y tecnologías fundamentales
+3. -Lenguajes y tecnologías fundamentales  
 HTML, CSS, JavaScript, PHP, MySQL
 4.-Control de versiones
 Git y GitHub
